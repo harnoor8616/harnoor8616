@@ -1,11 +1,7 @@
-<!-- Banner -->
-<p align="center">
-  <img src="./Final.png" alt="GitHub Banner" width="100%" />
-</p>
+<div align="center">
+<img src="Untitled_design.gif" alt="Harnoor's Avatar" width="280" />
+</div>
 
-<br>
-
-<!-- Animated Avatar -->
-<p align="center">
-  <img src="./Untitled%20design.gif" alt="Animated Avatar" width="220" />
-</p>
+<div align="center">
+<img src="Final.png" alt="I'm Harnoor Kaur Dhiman" width="100%" />
+</div>
