@@ -15,3 +15,33 @@
   <!-- <a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/blob/main/Resume.pdf"><img src="https://img.shields.io/badge/Resume-D32F2F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a> -->
 </p>
   <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL.com) -->
+<h2 align="center">
+  <img src="./assets/coding-girl.png" width="42" />
+  About Me
+</h2>
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+## Hi, I'm **Harnoor Kaur Dhiman** 👋
+
+🎓 **B.Tech Computer Science & Engineering** undergraduate at **Punjabi University, Patiala (PUP'27)**.
+
+I am passionate about building modern, scalable, and thoughtfully engineered software that delivers seamless user experiences while adhering to clean architecture and industry best practices.
+
+My interests span **Full-Stack Development**, **Software Engineering**, **System Design**, and **Algorithmic Problem Solving**. I enjoy transforming ambitious ideas into polished digital products while continuously exploring emerging technologies, frameworks, and engineering methodologies.
+
+I believe that exceptional software is created through simplicity, precision, maintainability, and relentless attention to detail. Every project presents an opportunity to learn, innovate, and grow as an engineer.
+
+> **Always curious. Always building. Always improving.**
+
+</td>
+
+<td width="38%" align="center">
+
+<img src="./assets/coding-girl.png" width="340px"/>
+
+</td>
+</tr>
+</table>
